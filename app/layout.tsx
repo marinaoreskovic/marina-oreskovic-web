@@ -8,6 +8,7 @@ import 'swiper/css/scrollbar';
 
 import Navbar from "@/components/navbar";
 import Header from "@/components/header";
+import Head from "next/head";
 
 const urbanist = Urbanist({ subsets: ["latin"] });
 
@@ -23,6 +24,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <Head> {/* Agrega el componente Head */}
+        <link rel="icon" href="app/favicon.ico" /> {/* Ruta al ícono en tu carpeta /public */}
+      </Head>
       <body className={urbanist.className}>
         <Navbar />
         <Header />
