@@ -57,7 +57,7 @@ export const dataAboutPage = [
         id: 1,
         title: "Full Stack Developer",
         subtitle: "Technisys",
-        description: "Trabajé en equipos multidisciplinarios para clientes del sector financiero como Bibank Ecuador, HSBC Uruguay y Diners.Mi rol fue el desarrollo de nuevas funcionalidades y la resolución de problemas técnicos en sus plataformas de Home Banking. Me involucré tanto en la parte Front-end, utilizando tecnologías como React.js, React Native y Sass, como en el Back-end, donde trabajé con Java - Spring Boot y MySQL/SQL.",
+        description: "Como Desarrolladora Fullstack para las plataformas de Home Banking de importantes clientes bancarios, me encargo de desarrollar nuevas funcionalidades y resolver problemas técnicos en las aplicaciones web y móviles, dirigidas tanto a individuos como a empresas dentro del sector financiero.",
         date: "2021",
     },
     {
@@ -78,7 +78,7 @@ export const dataAboutPage = [
         id: 4,
         title: "Licenciatura en Análisis de Sistemas",
         subtitle: "Universidad de Buenos Aires (UBA)",
-        description: "Análisis Matemático | Lógica | Fundamentos de la programación | Algoritmos | Estructuras de datos | Programación orientada a objetos (POO) | C | C++ | Java | Git",
+        description: "Inglés | Análisis Matemático | Matemática Discreta | Lógica | Fundamentos de la programación | Algoritmos | Estructuras de datos | Programación orientada a objetos (POO) | C | C++ | Java | Git",
         date: "2017",
     },
 ]
