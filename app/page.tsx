@@ -1,5 +1,4 @@
 "use client";
-
 import Introduction from "@/components/introduction";
 import TransitionPage from "@/components/transition-page";
 
