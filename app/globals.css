@@ -2,28 +2,29 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
-  /* height: 100%; */
-}
+/* --- RESET GLOBAL CLARO --- */
 html,
 body {
-  /* height: 100%; */
-  color: #fff;
-  background: #1f1934;
+  /* quita los hardcodes oscuros */
+  color: #111111; /* texto negro */
+  background: #c5c5c5; /* gris claro de fondo */
 }
 
+/* si usás <main>, dejalo claro o transparente */
 main {
-  background: #393a47;
+  background: #c5c5c5; /* o: background: transparent; */
   height: 100vh;
   height: 100dvh;
 }
 
+/* Swiper: bullets sin lila */
 .swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet,
 .swiper-pagination-horizontal.swiper-pagination-bullets
   .swiper-pagination-bullet {
-  background-color: #D2B9FE;
+  background-color: #111111; /* negro (o #6B7280 gris si lo preferís) */
 }
 
+/* util de tailwind opcional */
 @layer utilities {
   .text-balance {
     text-wrap: balance;
