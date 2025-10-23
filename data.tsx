@@ -83,7 +83,7 @@ export const dataAboutPage = [
     title: "Full Stack Developer",
     subtitle: "Galileo Financial Technologies",
     description:
-      "Trabajé en equipos multidisciplinarios para clientes del sector financiero como Bibank Ecuador, HSBC Uruguay y Diners. Mi rol fue el desarrollo de nuevas funcionalidades y la resolución de problemas técnicos en sus plataformas de Home Banking. Me involucré tanto en la parte Front-end, utilizando tecnologías como React.js, React Native y Sass, como en el Back-end, donde trabajé con Java - Spring Boot",
+      "Trabajé en equipos multidisciplinarios para clientes del sector financiero como Bibank Ecuador, HSBC Uruguay y Diners. Mi rol fue el desarrollo de nuevas funcionalidades y la resolución de problemas técnicos en sus plataformas de Home Banking. Me involucré tanto en la parte Front-end, utilizando tecnologías como React y Java - Spring Boot",
     date: "2021",
   },
   {
