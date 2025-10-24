@@ -13,7 +13,7 @@ const Introduction = () => {
 I am a professional committed to quality and excellence in everything I do.
                     </p> */}
           <p className="mx-auto mb-2 text-xl text-center md:text-xl md:mx-0 md:mb-8">
-            Me apasiona desarrollar soluciones tecnológicas que aporten valor real. En cada proyecto priorizo la eficiencia, la calidad y la mejora continua.
+            Me apasiona desarrollar soluciones tecnológicas que aporten valor real. En cada proyecto priorizo la eficiencia, la calidad y la mejora continua. Soy una profesional comprometida con la calidad y la excelencia en todo lo que hago. 
           </p>
           {/* <p className="mx-auto mb-2 text-xl text-center md:text-xl md:mx-0 md:mb-8">
                     Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos para ayudar a otros a alcanzar sus objetivos. 
