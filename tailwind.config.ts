@@ -9,15 +9,11 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        // Fondo claro
-        darkBg: "#F3F4F6", // gris claro (antes era #131424)
-        // Usabas "secondary" para textos/acentos → ahora negro
-        secondary: "#111111", // negro (podés usar "#000000" si querés más pleno)
-        // Opcional: neutros
+        darkBg: "#F3F4F6",
+        secondary: "#111111", 
         neutralBorder: "#cececeff",
       },
       backgroundImage: {
-        // si no querés tinte, dejalo en 'none' y NO uses la clase
         "gradient-cover": "none",
       },
     },
